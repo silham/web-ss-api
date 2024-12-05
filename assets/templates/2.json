@@ -8,6 +8,16 @@
     "default-theme" : "light",
     "devices" : [
         {
+            "d_name" : "iPad-2160x1620",
+            "d_type" : "tablet",
+            "d_width" : 205,
+            "d_height" : 270,
+            "d_real_width" : 1620,
+            "d_top" : 221,
+            "d_left" : 191,
+            "d_layer" : 1
+        },
+        {
             "d_name" : "Macbook-2560x1600",
             "d_type" : "desktop",
             "d_width" : 466,
@@ -26,16 +36,6 @@
             "d_top" : 359,
             "d_left" : 117,
             "d_layer" : 2
-        },
-        {
-            "d_name" : "iPad-2160x1620",
-            "d_type" : "tablet",
-            "d_width" : 205,
-            "d_height" : 270,
-            "d_real_width" : 1620,
-            "d_top" : 221,
-            "d_left" : 191,
-            "d_layer" : 1
         }
     ]
 }
