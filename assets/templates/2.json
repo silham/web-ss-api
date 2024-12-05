@@ -1,0 +1,41 @@
+{
+    "number" : 2,
+    "name" : "Macbook-iPad-iPhone-002",
+    "path" : "/home/wpboost_official/web-ssapi-gcpvm/assets/templates/002.png",
+    "width" : 1000,
+    "height" : 667,
+    "device-count" : 3,
+    "default-theme" : "light",
+    "devices" : [
+        {
+            "d_name" : "Macbook-2560x1600",
+            "d_type" : "desktop",
+            "d_width" : 466,
+            "d_height" : 292,
+            "d_real_width" : 2560,
+            "d_top" : 246,
+            "d_left" : 386,
+            "d_layer" : 3
+        },
+        {
+            "d_name" : "iPone-750x1334",
+            "d_type" : "phone",
+            "d_width" : 98,
+            "d_height" : 174,
+            "d_real_width" : 750,
+            "d_top" : 359,
+            "d_left" : 117,
+            "d_layer" : 2
+        },
+        {
+            "d_name" : "iPad-2160x1620",
+            "d_type" : "tablet",
+            "d_width" : 205,
+            "d_height" : 270,
+            "d_real_width" : 1620,
+            "d_top" : 221,
+            "d_left" : 191,
+            "d_layer" : 1
+        }
+    ]
+}

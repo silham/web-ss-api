@@ -1,7 +1,7 @@
 {
     "number" : 1,
     "name" : "iMac-001",
-    "path" : "assets/templates/001.png",
+    "path" : "/home/wpboost_official/web-ssapi-gcpvm/assets/templates/001.png",
     "width" : 5074,
     "height" : 3383,
     "device-count" : 1,
